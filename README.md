@@ -1,1 +1,1 @@
-Hi, some day I will be developer.
+Hi, someday I will become a developer.
